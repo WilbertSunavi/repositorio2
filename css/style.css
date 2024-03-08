@@ -1,0 +1,81 @@
+*{
+    background-color: #092635 ;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    text-align: center;
+}
+.fondo{
+    background-color: #092635;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    
+
+}
+.cuadro1{
+    background-color: #1B4242;
+    margin: 18px;
+    width: 30%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.calto{
+    background-color: #5C8374;
+    width: 150px;
+    height: 300px;
+    margin: 8px;
+    margin-right: 17px;
+    margin-left: 3px;
+}
+.clargo{
+    background-color: #9EC8B9;
+    width: 480px;
+    height: 150px;
+    margin: 8px;
+}
+.cuadrado{
+    background-color: #50727B;
+    width: 130px;
+    height: 150px;
+    margin: 8px;
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+.cuadro2{
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    margin: 6px;
+    width: 100%;
+    height: auto;
+}
+.cuadro3{
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    margin: 6px;
+    width: 100%;
+    height: 300px;
+}
+.cuadro4{
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    margin: 6px;
+    margin-top: 180px;
+    width: 100%;
+    height: auto;
+
+}
